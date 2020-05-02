@@ -1,0 +1,87 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+
+# OS generated files #
+######################
+*/.DS_Store
+.DS_Store
+.DS_Store?
+
+*/._*
+._*
+
+*/.Spotlight-V100
+.Spotlight-V100
+
+*/.Trashes
+.Trashes
+
+*/ehthumbs.db
+ehthumbs.db
+
+*/Thumbs.db
+Thumbs.db
+
+# Folders to exclude #
+######################
+Exercise_Files/
+*/.vscode/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Python Specifics #
+######################
+env
+venv
+*.pyc
+
+*/__pycache__
+__pycache__
+
+# Hugo Folders to exclude #
+##########################
+public/
+themes/
+_obj
+_test
+
+# Go Files #
+############
+*.cgo1.go
+*.cgo2.c
+_cgo_defun.c
+_cgo_gotypes.go
+_cgo_export.*
+_testmain.go
+*.test
+
+# Others #
+##########
+split_into_csv1.py
+reverse_eng_xero-orig.md
+reverse_eng_xero1.md
+db_simple.txt

@@ -1,0 +1,4 @@
+id,tran_date,due_date,description,reference,total,status,customer_id,invoice_payment_id,coa_id
+1,39214,,,,2000,1,1,1,120
+2,39224,,,,2000,1,2,2,120
+3,39236,,,,2500,0,3,,120

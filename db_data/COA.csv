@@ -1,0 +1,59 @@
+id,name
+110,Business Bank Account
+120,Accounts Receivable
+130,Petty Cash
+135,Provision for Doubtful Debts
+140,Prepayments
+150,Withholding Tax Paid
+160,Inventory
+165,Provision for Stock Obsolence
+170,Land
+180,Building
+185,Accumulated Depreciation on Building
+190,Office Equipment
+195,Accumulated Depreciation on Office Equipment
+200,Computer Equipment
+205,Accumulated Depreciation on Computer Equipment
+210,Furniture
+215,Accumulated Depreciation on Furniture
+220,Motor Vehicles
+225,Accumulated Depreciation on Motor Vehicles
+310,Accounts Payable
+320,Accrued Expenses
+330,Revenue Received in Advance
+340,Wages Payable - Payroll
+350,Wages Deductions Payable
+360,Income Tax
+370,Finance Lease
+380,Loans Payable
+410,Owner - Investments
+420,Owner - Drawings
+430,Retained Earnings
+510,Sales
+520,Other Revenue
+530,Interest Income
+540,Dividends Received
+610,Cost of Goods Sold
+620,General Expenses
+630,Supplies Expense
+640,Advertising
+650,Consulting & Accounting
+660,Depreciation
+670,Entertainment
+680,Freight & Courier
+690,Insurance
+700,Legal expenses
+710,Electricity
+720,Motor Vehicle Expenses
+730,Office Expenses
+740,Printing & Stationery
+750,Rates
+760,Rent
+770,Repairs and Maintenance
+780,Salaries
+790,Subscriptions
+800,Telephone & Internet
+810,Travel Expenses
+820,Bank Fees
+830,Interest Expense
+840,Income Tax Expense

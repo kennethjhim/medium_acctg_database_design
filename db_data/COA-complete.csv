@@ -1,0 +1,59 @@
+id,name,description,type,category
+110,Business Bank Account,,BANK,Assets
+120,Accounts Receivable,,AR,Assets
+130,Petty Cash,,CA,Assets
+135,Provision for Doubtful Debts,,CA,Assets
+140,Prepayments,,CA,Assets
+150,Withholding Tax Paid,,CA,Assets
+160,Inventory,,INVTY,Assets
+165,Provision for Stock Obsolence,,INVTY,Assets
+170,Land,,FA Cost,Assets
+180,Building,,FA Cost,Assets
+185,Accumulated Depreciation on Building,,FA Accum Depn,Assets
+190,Office Equipment,,FA Cost,Assets
+195,Accumulated Depreciation on Office Equipment,,FA Accum Depn,Assets
+200,Computer Equipment,,FA Cost,Assets
+205,Accumulated Depreciation on Computer Equipment,,FA Accum Depn,Assets
+210,Furniture,,FA Cost,Assets
+215,Accumulated Depreciation on Furniture,,FA Accum Depn,Assets
+220,Motor Vehicles,,FA Cost,Assets
+225,Accumulated Depreciation on Motor Vehicles,,FA Accum Depn,Assets
+310,Accounts Payable,,AP,Liabilities
+320,Accrued Expenses,,CL,Liabilities
+330,Revenue Received in Advance,,CL,Liabilities
+340,Wages Payable - Payroll,,CL,Liabilities
+350,Wages Deductions Payable,,CL,Liabilities
+360,Income Tax,,CL,Liabilities
+370,Finance Lease,,NCL,Liabilities
+380,Loans Payable,,NCL,Liabilities
+410,Owner - Investments,,SHE,Equity
+420,Owner - Drawings,,SHE,Equity
+430,Retained Earnings,,SHE,Equity
+510,Sales,,REV,Revenue
+520,Other Revenue,,REV,Revenue
+530,Interest Income,,OI,Revenue
+540,Dividends Received,,OI,Revenue
+610,Cost of Goods Sold,,COS,Expenses
+620,General Expenses,,EXP,Expenses
+630,Supplies Expense,,EXP,Expenses
+640,Advertising,,EXP,Expenses
+650,Consulting & Accounting,,EXP,Expenses
+660,Depreciation,,EXP,Expenses
+670,Entertainment,,EXP,Expenses
+680,Freight & Courier,,EXP,Expenses
+690,Insurance,,EXP,Expenses
+700,Legal expenses,,EXP,Expenses
+710,Electricity,,EXP,Expenses
+720,Motor Vehicle Expenses,,EXP,Expenses
+730,Office Expenses,,EXP,Expenses
+740,Printing & Stationery,,EXP,Expenses
+750,Rates,,EXP,Expenses
+760,Rent,,EXP,Expenses
+770,Repairs and Maintenance,,EXP,Expenses
+780,Salaries,,EXP,Expenses
+790,Subscriptions,,EXP,Expenses
+800,Telephone & Internet,,EXP,Expenses
+810,Travel Expenses,,EXP,Expenses
+820,Bank Fees,,OE,Expenses
+830,Interest Expense,,OE,Expenses
+840,Income Tax Expense,,TAX,Expenses

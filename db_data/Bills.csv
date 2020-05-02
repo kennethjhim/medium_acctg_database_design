@@ -1,0 +1,6 @@
+id,tran_date,due_date,description,reference,total,status,supplier_id,bill_payment_id,coa_id
+1,38918,,,IN100,-300,0,2,,310
+2,38918,,,IN101,-180,0,2,,310
+3,38918,,,IN102,-220,0,1,,310
+4,39079,,,1256,-1710,1,4,1,310
+5,39133,,,1257,-1610,0,3,,310

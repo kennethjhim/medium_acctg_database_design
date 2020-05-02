@@ -1,0 +1,25 @@
+id,journal_no,tran_date,description,reference,line_coa_id,line_amount
+1,1,38923,CE DispCost,,200,-60
+2,1,38923,OE DispCost,,190,-100
+3,1,38923,FF DispCost,,210,-100
+4,1,38923,Disposal Cost,,430,260
+5,1,38923,CE DispDeprn,,205,50
+6,1,38923,OE DispDeprn,,195,100
+7,1,38923,FF DispDeprn,,215,95
+8,1,38923,Disposal AD,,430,-245
+9,2,38923,CE DispDeprn,,205,-300
+10,2,38923,OE DispDeprn,,195,-400
+11,2,38923,FF DispDeprn,,215,-250
+12,2,38923,Deprn,,430,950
+13,3,39202,CE Deprn,,205,-200
+14,3,39202,OE Deprn,,195,-120
+15,3,39202,FF Deprn,,215,-55
+16,3,39202,Deprn,,660,375
+17,4,39259,CE DispCost,,200,-50
+18,4,39259,OE DispCost,,190,-100
+19,4,39259,FF DispCost,,210,-10
+20,4,39259,Disposal Cost,,660,160
+21,4,39259,CE DispDeprn,,205,20
+22,4,39259,OE DispDeprn,,195,55
+23,4,39259,FF DispDeprn,,215,5
+24,4,39259,Disposal AD,,660,-80
